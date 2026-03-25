@@ -1,0 +1,11 @@
+# SDR and Signal Processing
+pyrtlsdr>=0.3.0
+numpy>=1.24.0
+scipy>=1.10.0
+
+# GUI and Visualization
+PyQt5>=5.15.0
+pyqtgraph>=0.13.0
+
+# Utilities
+matplotlib>=3.7.0  # optional, for additional plotting
